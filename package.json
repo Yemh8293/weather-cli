@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/helloman8293/weather-cli#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "minimist": "^1.2.5",
     "ora": "^4.0.3"
   }
